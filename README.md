@@ -28,8 +28,6 @@ Using the Memory Game is simple:
 
 ## Demo
 
-## Demo
-
 <img src="https://github.com/N0ksa/MemoryGame/assets/118447696/97de2c7e-1623-4052-8d46-d5c4c2a2494f" autoplay="true">
 
 
